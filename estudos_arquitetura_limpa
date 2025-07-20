@@ -1,0 +1,16 @@
+// Estudo do Livro: ARQUITETURA LIMPA, de Robert C. Martin
+
+// p.21 e p.22
+
+// PANORAMA DO PARADIGMA
+
+// Os três paradigmas abordados neste capítulo de panorama são os MODELOS de programação ESTRUTURADA, ORIENTADA a OBJETOS e FUNCIONAL.
+
+// PROGRAMAÇÃO ESTRUTURADA
+
+// O primeiro paradigma a ser adotado foi a programação estruturada, descoberta por Edsger Wybe DIJKSTRA em 1968. Dijkstra demonstrou que o uso de saltos (declarações goto) é prejudicial para a estrutura do programa. Como veremos nos capítulos seguintes, ele substituiu esses saltos pelas construções mais familiares.
+
+// IF / THEN / ELSE			e 		DO / WHILE / UNTIL
+
+
+// Podemos resumir o paradigma da programação estruturada  da seguinte forma:
