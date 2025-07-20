@@ -1,5 +1,5 @@
-- 👋 Hi, I’m @diegolimaaraujo
-- 👀 I’m interested in Tecnology, Coding, UX/UI Design and AI.
+- 🖖 Hi, I’m @diegolimaaraujo
+- 🔍 I’m interested in Tecnology, Coding, UX/UI Design and AI.
 - 🌱 I’m currently learning IT.
-- 💞️ I’m looking to collaborate on software and applications development.
-- 📫 How to reach me: send an email message to diego.lima.d.araujo@gmail or access https://www.linkedin.com/in/diego-lima-d-ara%C3%BAjo/ .
+- 🫂 I’m looking to collaborate on software and applications development.
+- 📡 How to reach me: send an email message to diego.lima.d.araujo@gmail or access https://www.linkedin.com/in/diego-lima-d-ara%C3%BAjo/ .
