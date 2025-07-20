@@ -1,0 +1,36 @@
+// Conceitos e Diferença entre Dados, Informações e Conhecimentos (Graduação > Engenharia de Software)
+
+// DADOS:
+
+// > Simples observações sobre o estado do mundo:
+
+// 1. Facilmente estruturados
+
+// 2. Facilmente obtidos por máquinas
+
+// 3. Frequentemente quantificados
+
+// 4. Facilmente transferíveis
+
+// INFORMAÇÕES:
+
+// > Dados dotados de relevância e propósito
+
+// 1. Requer unidade de análise
+
+// 2. Exige consenso em relação ao significado
+
+// 3. Exige, necessariamente, a mediação humana
+
+// CONHECIMENTO:
+
+// > Informação valiosa da mente humana incluindo reflexão, síntese e contexto
+
+// 1. De difícil estruturação
+
+// 2. De difícil captura em máquinas
+
+// 3. Frequentemente tácito (difícil de colocar em palavras – por ser de funcionamento intrínseco ao viver dos sujeitos)
+
+// 4. De difícil transferência
+
