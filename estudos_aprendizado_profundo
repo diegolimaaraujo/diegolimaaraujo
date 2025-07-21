@@ -1,0 +1,31 @@
+// Estudo > Aprendizado Profundo > John Paul Mueller e Luca Massaron (2020)
+
+// p. 9 e p. 10
+
+// Apresentando o Aprendizado Profundo
+
+// O QUE SIGNIFICA APRENDIZADO PROFUNDO?
+
+// A compreensão do aprendizado profundo começa com uma definição precisa de seus termos. Do contrário, fica difícil separar o falatório da mídia do que o aprendizado profundo possibilita, de forma real. Ele faz parte tanto da IA quanto do aprendizado de máquina, conforme mostrado na Figura 1-1. para entendê-lo, comece por fora – isto é, com a IA –, depois siga o caminho pelo aprendizado de máquina até finalmente definir o aprendizado profundo. As seções a seguir o acompanham por esse processo:
+
+// { IA [ Aprendizado de Máquina ( Aprendizado Profundo ) ] }
+
+// Partindo da Inteligência Artificial
+
+// Falar que a IA é uma Inteligência que é artificial  não lhe diz nada de significativo. (...)
+
+// A inteligência envolve certos exercícios mentais, que incluem as seguintes atividades:
+
+// Aprendizado: capacidade de adquirir e processar novas informações.
+
+// Raciocínio: capacidade de manipular informações de várias maneiras.
+
+// Compreensão: capacidade de ponderar a respeito do resultado do manejo de informações.
+
+// Julgamento: capacidade de definir a validade de informações manejadas.
+
+// Associação: capacidade de prever como os dados validados interagirão com os outros.
+
+// Interpretação: capacidade de aplicar verdades a situações particulares de maneira coerente com a relação entre elas.
+
+// Diferenciação de fatos e crenças: capacidade de determinar se os dados são apoiados de forma apropriada por fontes prováveis, que se mostrem substancialmente válidas.
